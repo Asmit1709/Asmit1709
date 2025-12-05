@@ -2,13 +2,13 @@
 ### AI Engineer • Backend Architect • Full-Stack Innovator
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI4djRqYmlzZTF6d2Rxbm83d2Q4M2F2YW5jc3kzNTB2eWZkcnR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yr8Z2lXoBLO4o/giphy.gif" width="520"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJpcmFwNHo4ZWM3cWlxaGJ1YjFqbWpwdWx5emV2YTNkazJ3ZXE0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="420"/>
 </p>
+
 
 ---
 
 # 🎯 ABOUT ME — 3D MODE ACTIVATED
-
 
 🔭 **Working On:**  
 Argus — a 3D-inspired AI system that sees, understands, and reacts to human emotions.
@@ -30,7 +30,7 @@ I break things just to build them better — version 2 > version 1, always.
 
 ---
 
-# ⚡ **SKILL MATRIX — NEON MODE ACTIVATED**
+# ⚡ SKILL MATRIX — NEON MODE ACTIVATED
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z1bWF5c3k5Y3Jnb3dwaHBqZ3JzdGZkNHBuMzdiM2dndGttNGJscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlGHiJbVQYfFCPG/giphy.gif" width="350"/>
@@ -38,53 +38,41 @@ I break things just to build them better — version 2 > version 1, always.
 
 ---
 
-## 🧠 **Machine Learning Engines**
+## 🧠 Machine Learning Engines  
 🔥 TensorFlow  ⚡ PyTorch  🎯 OpenCV  🧩 Scikit-Learn  
 📊 Pandas  📐 NumPy  🚀 MLflow  🎨 Matplotlib
 
 ---
 
-## 🛠 **Backend Frameworks**
+## 🛠 Backend Frameworks  
 ⚙️ Node.js  ⚡ Express.js  🚀 FastAPI  🔥 Flask  🔗 REST APIs
 
 ---
 
-## 🎨 **Frontend Frameworks**
+## 🎨 Frontend Frameworks  
 🎆 React.js  🌀 Next.js  📘 HTML5  💠 CSS3  🎀 Bootstrap
 
 ---
 
-## 🔧 **Programming Languages**
+## 🔧 Programming Languages  
 🐍 Python  ⚔️ C++  🔩 C  ✨ JavaScript  ☕ Java
 
 ---
 
-## 🗄 **Databases**
+## 🗄 Databases  
 🧬 MySQL  🌿 MongoDB
 
 ---
 
-## 🚀 **Cloud & DevOps**
+## 🚀 Cloud & DevOps  
 🐳 Docker  ☁️ AWS  🔧 Git  📦 NPM
 
 ---
 
-## ✨ **Creative Tools**
+## ✨ Creative Tools  
 🌀 Blender  🎨 Canva  📸 Lightroom
 
 ---
 
-# 🌀 RANDOM 3D DEV ANIMATION
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFqOTdnZzEzbnM2Z3V3N2poMmh2cW5zM24xMnFwZzJva3Y4d2FsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="350"/>
-</p>
-
----
-
-# 🔍 VISITOR COUNT — LIVE SENSOR  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Asmit1709&icon=2&color=12"/>
-</p>
-
----
+<!-- END OF README -->
 
