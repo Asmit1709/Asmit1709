@@ -11,7 +11,7 @@
 # 🎯 ABOUT ME — 3D MODE ACTIVATED
 
 🔭 **Working On:**  
-Argus — a 3D-inspired AI system that sees, understands, and reacts to human emotions.
+Ariel — a 3D-inspired AI system that sees, understands, and reacts to human emotions.
 
 👯 **Collaboration Interests:**  
 Neural networks, backend engines, full-stack builds, hackathons, and futuristic experiments.
