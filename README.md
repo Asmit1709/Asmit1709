@@ -33,8 +33,10 @@ I break things just to build them better — version 2 > version 1, always.
 # ⚡ SKILL MATRIX — NEON MODE ACTIVATED
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hkMWI5dXFhdHd5Ync0Z2Zwa2o3MDc2Y3J3MWQzdmM4cGVhaDYyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8GYlQ8KklVYQ8/giphy.gif" width="360"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFiYnQ5c3AxYjJzbXY2dGJzNHBtdjhiYTJiNmFobW8yYzk1dTJldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduSbSGpGaRX2Vri/giphy.gif" width="360"/>
 </p>
+
+
 
 
 ---
