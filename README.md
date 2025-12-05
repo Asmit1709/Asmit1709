@@ -2,7 +2,7 @@
 ### AI Engineer • Backend Architect • Full-Stack Innovator
 
 <p align="center">
-  <img src="https://i.imgur.com/eUzVYxF.gif" width="550"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI4djRqYmlzZTF6d2Rxbm83d2Q4M2F2YW5jc3kzNTB2eWZkcnR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yr8Z2lXoBLO4o/giphy.gif" width="520"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@ I break things just to build them better — version 2 > version 1, always.
 # 🛠️ 3D TECH STACK MODULE
 
 <p align="center">
-  <img src="https://i.imgur.com/Jl6MHDb.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc0NGg5ZmQ0MHgwbXc2NHZzbnkycm5xdHNhdjVpaGxqNjh1dW10OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="300"/>
 </p>
 
 ### 🧠 Machine Learning Engines
@@ -73,7 +73,7 @@ I break things just to build them better — version 2 > version 1, always.
 # 🛰️ GITHUB ANALYTICS — 3D HUD RENDER
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRucGdjbmtqYW9neGhuamEzNmo5Mzh0cTFvZTN2b2wzYjlmY2M4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0dy1zCYc7xwCco/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -88,8 +88,9 @@ I break things just to build them better — version 2 > version 1, always.
 ---
 
 # 🌀 RANDOM 3D DEV ANIMATION
+
 <p align="center">
-  <img src="https://i.imgur.com/8uJ24Zc.gif" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFqOTdnZzEzbnM2Z3V3N2poMmh2cW5zM24xMnFwZzJva3Y4d2FsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -100,5 +101,3 @@ I break things just to build them better — version 2 > version 1, always.
 </p>
 
 ---
-
-<!-- END OF README -->
